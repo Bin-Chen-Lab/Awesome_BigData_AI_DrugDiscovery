@@ -6,16 +6,16 @@ If you have a little statistical background, read this book first.
 A required course for any people who are interested in machine learning.
 
 (***) [R & Bioconductor Manual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual/).  
-Ensure you have run the code before doing any bioinformatics project.
+Ensure you have run the code before taking any bioinformatics project.
 
 (***) [HT Sequence Analysis with R and Bioconductor](http://manuals.bioinformatics.ucr.edu/home/ht-seq).  
-Ensure you have run the code before doing any NGS project.
+Ensure you have run the code before taking any NGS project.
 
 (***) [ChemmineR: Cheminformatics Toolkit for R](http://www.bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html).  
-Suggest to run the code before doing any cheminformatics project.
+Suggest to run the code before taking any cheminformatics project.
 
 (**) [Step by Step to practice deep learning](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).  
-PyTorch tutorial to deep learning.
+PyTorch tutorial for deep learning.
 
 (***) [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html).  
 comprehensive tutorial on data science with code from rafalab.
@@ -39,8 +39,8 @@ A typical review on the therapeutic discovery of one cancer.
 (***) [Opportunities and challenges in phenotypic drug discovery: an industry perspective](https://www.nature.com/nrd/journal/v16/n8/abs/nrd.2017.111.html).  
 Our drug discovery approach is one type of phenotypic screening.
 
-(****) [Ten Years of Pathway Analysis: Current Approaches and Outstanding Challenges](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002375), by Purvesh Khatri.  
-A very nice summary of the method development in pathway analysis.
+(***) [Ten Years of Pathway Analysis: Current Approaches and Outstanding Challenges](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002375), by Purvesh Khatri.  
+A very nice summary of method development in pathway analysis.
 
 (***) [Deep learning](https://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) by Yann LeCun,	Yoshua Bengio & Geoffrey Hinton.  
 Deep learning review.

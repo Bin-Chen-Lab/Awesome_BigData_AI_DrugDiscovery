@@ -33,6 +33,9 @@ Fundamental to understand cancer metastasis.
 (***) [Cancer genome landscapes](http://science.sciencemag.org/content/339/6127/1546.long), by Bert Vogelstein.   
 Fundamental to understand cancer genomics.
 
+(***) [Cancer transcriptome profiling at the juncture of clinical translation](https://www.nature.com/articles/nrg.2017.96), by Arul M. Chinnaiyan.   
+review on cancer transcriptomics.
+
 (***) [Ewing sarcoma: historical perspectives, current state-of-the-art, and opportunities for targeted therapy in the future.](https://www.ncbi.nlm.nih.gov/pubmed/18525337).  
 A typical review on the therapeutic discovery of one cancer.
 

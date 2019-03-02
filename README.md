@@ -129,6 +129,16 @@ A typical machine learning paper in cheminformatics.
 (***) [Do structurally similar molecules have similar biological activity](https://dx.doi.org/10.1021/jm020155c).  
 A typical data analysis paper in cheminformatics.
 
+## Deep-learning based drug discovery
+(***) [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) by Tropsha.  
+Found a general use for generating targeted chemical libraries of novel compounds optimized for either a single desired property or multiple properties.
+
+(***) [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292) by Ryan Adams.
+Designed DL based fingerprints inspired by ECFP
+
+(***) [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00572)
+Used Variational autoencoder to encode SMILES and optimize compounds from the latent space.
+
 ## Shape our future
 (***) [Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma](http://science.sciencemag.org/content/344/6190/1396).  
 Application of single cell in a cancer study.

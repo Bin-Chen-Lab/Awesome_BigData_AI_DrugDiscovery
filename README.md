@@ -20,6 +20,9 @@ PyTorch tutorial for deep learning.
 (***) [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html).  
 comprehensive tutorial on data science with code from rafalab.
 
+(**) [Data Science Cheat Sheet](https://github.com/Bin-Chen-Lab/BigData_AI_DrugDiscovery/blob/master/data_science_cheatsheet.pdf)
+A quick check list of basics in data science (credit to Maverick Lin)
+
 # Fundamental papers
 **These papers I read at least 10 times, including supplementary materials! All of them are three stars!**
 

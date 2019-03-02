@@ -193,6 +193,9 @@ Search gene expression in liver cancer cell lines.
 (*) [Project Achilles](https://portals.broadinstitute.org/achilles).  
 Search essential genes in liver cancer cells.
 
+(***) [DepMap](https://depmap.org/portal/).
+create a comprehensive preclinical reference map connecting tumor features with tumor dependencies to accelerate the development of precision treatments.
+
 (***) [GEO](https://www.ncbi.nlm.nih.gov/geo/).  
 Search functional genomics data for liver cancer, requiring additional computational analysis to create a liver cancer signature.
 

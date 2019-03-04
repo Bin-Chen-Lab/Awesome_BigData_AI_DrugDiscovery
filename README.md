@@ -131,7 +131,7 @@ A typical data analysis paper in cheminformatics.
 
 ## Deep-learning based drug discovery
 (***) [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) by Tropsha.  
-Found a general use for generating targeted chemical libraries of novel compounds optimized for either a single desired property or multiple properties.
+Develop a model to generate targeted chemical libraries of novel compounds optimized for either a single desired property or multiple properties.
 
 (***) [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292) by Ryan Adams.
 Designed DL based fingerprints inspired by ECFP

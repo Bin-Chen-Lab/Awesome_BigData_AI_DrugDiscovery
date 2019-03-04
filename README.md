@@ -20,7 +20,7 @@ PyTorch tutorial for deep learning.
 (***) [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html).  
 comprehensive tutorial on data science with code from rafalab.
 
-(**) [Data Science Cheat Sheet](https://github.com/Bin-Chen-Lab/BigData_AI_DrugDiscovery/blob/master/data_science_cheatsheet.pdf)
+(**) [Data Science Cheat Sheet](https://github.com/Bin-Chen-Lab/BigData_AI_DrugDiscovery/blob/master/data_science_cheatsheet.pdf).
 A quick check list of basics in data science (credit to Maverick Lin)
 
 # Fundamental papers
@@ -50,6 +50,9 @@ A very nice summary of method development in pathway analysis.
 
 (***) [Deep learning](https://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) by Yann LeCun,	Yoshua Bengio & Geoffrey Hinton.  
 Deep learning review.
+
+(***) [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) by Eric Topol.
+Current progress and challenges in applying DL into biomedical research.
 
 ## Statistical method development
 (***) [Significance analysis of microarrays applied to the ionizing radiation response](http://www.pnas.org/content/98/9/5116.full), by Robert Tibshirani.  

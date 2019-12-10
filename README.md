@@ -26,6 +26,9 @@ outstanding video tutorials by Josh Starmer.
 (**) [Data Science Cheat Sheet](https://github.com/Bin-Chen-Lab/BigData_AI_DrugDiscovery/blob/master/data_science_cheatsheet.pdf).
 A quick check list of basics in data science (credit to Maverick Lin)
 
+(***) Single cell RNA-Seq analysis [osca](https://osca.bioconductor.org/introduction.html), [seurat](https://satijalab.org/seurat/vignettes.html). 
+outstanding framework for scRNA-Seq analysis.
+
 # Fundamental papers
 **These papers I read at least 10 times, including supplementary materials! All of them are three stars!**
 

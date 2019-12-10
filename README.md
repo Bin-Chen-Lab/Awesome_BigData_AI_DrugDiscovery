@@ -14,13 +14,13 @@ Ensure you have run the code before taking any NGS project.
 (***) [ChemmineR: Cheminformatics Toolkit for R](http://www.bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html).  
 Suggest to run the code before taking any cheminformatics project.
 
-(**) [Step by Step to practice deep learning](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).  
+(**) [Step by Step to practice deep learning](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).   
 PyTorch tutorial for deep learning.
 
-(***) [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html).  
+(***) [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html).   
 comprehensive tutorial on data science with code from rafalab.
 
-(***) [Statistics for biologists from StatQuest](https://statquest.org/video-index/). 
+(***) [Statistics for biologists from StatQuest](https://statquest.org/video-index/).   
 outstanding video tutorials by Josh Starmer.
 
 (**) [Data Science Cheat Sheet](https://github.com/Bin-Chen-Lab/BigData_AI_DrugDiscovery/blob/master/data_science_cheatsheet.pdf).

@@ -1,15 +1,11 @@
 refer to [Leveraging big data to transform target selection and drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/26659699).  
 [Harnessing big ‘omics’ data and AI for drug discovery in hepatocellular carcinoma](https://www.nature.com/articles/s41575-019-0240-9).  
 
-1. Disease models
-  1. Clinical samples
-  1. Preclinical samples
-1. Drug/perturbagen 
+# Disease models
+## Clinical models
+## Preclinical models
 
-# Basic
-## Single cells
-(***) Liver cancer single cells ([Landscape of Infiltrating T Cells in Liver Cancer Revealed by Single-Cell Sequencing](http://www.cell.com/cell/fulltext/S0092-8674(17)30596-2)).  
-5,063 single T cells isolated from peripheral blood, tumor, and adjacent normal tissues from six hepatocellular carcinoma patients.  
+# Perturbagen 
 
 ## OMICS
 (***) [A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations](https://www.biorxiv.org/content/early/2017/09/07/185918).  
@@ -21,3 +17,6 @@ sensitivity data of 150 drugs across >20 pediatric cell lines
 (*) [NCI ALMANAC](https://dtp.cancer.gov/ncialmanac/initializePage.do)
 5,000 pairs of FDA-approved drugs that were tested against the NCI-60
 
+# Single cells
+(***) Liver cancer single cells ([Landscape of Infiltrating T Cells in Liver Cancer Revealed by Single-Cell Sequencing](http://www.cell.com/cell/fulltext/S0092-8674(17)30596-2)).  
+5,063 single T cells isolated from peripheral blood, tumor, and adjacent normal tissues from six hepatocellular carcinoma patients.  

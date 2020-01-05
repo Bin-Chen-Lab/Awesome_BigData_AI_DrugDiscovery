@@ -3,8 +3,12 @@ Refer to .
 [Leveraging big data to transform target selection and drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/26659699).  
 [Harnessing big ‘omics’ data and AI for drug discovery in hepatocellular carcinoma](https://www.nature.com/articles/s41575-019-0240-9).  
 
+Data Types include Genomics (G), Epigenomics (E), Transcriptomics (T), Proteomics (P), Metabolomics (M), Phenomics (P), Imaging (I)
+Mainly list the big data repositories
+
 # Disease models
-## Clinical models
+## Clinical models 
+
 ## Preclinical models
 
 # Perturbagen 

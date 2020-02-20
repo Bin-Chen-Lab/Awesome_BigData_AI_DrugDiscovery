@@ -8,6 +8,9 @@ A required course for any people who are interested in machine learning.
 (***) [R & Bioconductor Manual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual/).  
 Ensure you have run the code before taking any bioinformatics project.
 
+(***) [STATQUEST] (https://statquest.org/video-index/).  
+Video collection for statistics, machine learning and bioinformatics.  
+
 (***) [HT Sequence Analysis with R and Bioconductor](http://manuals.bioinformatics.ucr.edu/home/ht-seq).  
 Ensure you have run the code before taking any NGS project.
 

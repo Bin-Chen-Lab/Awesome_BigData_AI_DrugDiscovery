@@ -151,10 +151,10 @@ Develop a model to predict antibiotic activity based on chemical structure, scre
 (***) [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) by Tropsha.  
 Develop a model to generate targeted chemical libraries of novel compounds optimized for either a single desired property or multiple properties.
 
-(***) [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292) by Ryan Adams.
+(***) [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292) by Ryan Adams.  
 Designed DL based fingerprints inspired by ECFP
 
-(***) [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00572)
+(***) [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00572). 
 Used Variational autoencoder to encode SMILES and optimize compounds from the latent space.
 
 ## Shape our future

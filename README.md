@@ -142,6 +142,12 @@ A typical machine learning paper in cheminformatics.
 A typical data analysis paper in cheminformatics.
 
 ## Deep-learning based drug discovery
+(***) [Predicting Drug Response and Synergy Using a Deep Learning Model of Human Cancer Cells](https://pubmed.ncbi.nlm.nih.gov/33096023/) by Ideker.  
+Develop a model to predict drug activity based on a huge pharmacogenomics dataset, propose novel ways to model cells based on Gene Ontology,  and experimentally validate some hits.
+
+(***) [A Deep Learning Approach to Antibiotic Discovery](https://pubmed.ncbi.nlm.nih.gov/32084340/) by Barzilay and Collins.  
+Develop a model to predict antibiotic activity based on chemical structure, screen millions of compounds and extensively validate one drug candidate.
+
 (***) [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) by Tropsha.  
 Develop a model to generate targeted chemical libraries of novel compounds optimized for either a single desired property or multiple properties.
 

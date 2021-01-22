@@ -182,6 +182,10 @@ Using deep learning GAN to realize domain knowledge translation.
 # Outstanding tools and datasets for translational drug discovery
 
 **use liver cancer as an example, can be applied to other cancers, only list outstanding tools/datasets for liver cancer drug discovery**
+two review articles from the lab
+[Harnessing big ‘omics’ data and AI for drug discovery in hepatocellular carcinoma](https://www.nature.com/articles/s41575-019-0240-9).    
+[Leveraging big data to transform target selection and drug discovery](http://www.ncbi.nlm.nih.gov/pubmed/26659699).    
+
 ## Diseases/Patients
 (***) [ClinicalTrials.gov](https://clinicaltrials.gov).  
 Search drugs used in liver cancer clinical trials.

@@ -21,7 +21,7 @@ Suggest to run the code before taking any cheminformatics project.
 PyTorch tutorial for deep learning.
 
 (***) [Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/).   
-Very comprenhensive video tutorials by Shirley Liu.
+Very comprenhensive video tutorials in computational biology by Shirley Liu.
 
 (***) [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html).   
 comprehensive tutorial on data science with code from rafalab.

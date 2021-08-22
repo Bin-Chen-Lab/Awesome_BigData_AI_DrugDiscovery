@@ -2,7 +2,7 @@
 (***) [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Robert Tibshirani.  
 If you have a little statistical background, read this book first.
 
-(***) [Machine Learning course at Coursera](coursera.org/learn/machine-learning) by Andrew Ng.  
+(***) [Machine Learning course at Coursera](https://www.coursera.org/learn/machine-learning) by Andrew Ng.  
 A required course for any people who are interested in machine learning.
 
 (***) [R & Bioconductor Manual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual/).  
